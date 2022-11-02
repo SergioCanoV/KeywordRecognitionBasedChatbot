@@ -1,4 +1,4 @@
-<h1>JKeyword Recognition Based Chatbot</h1>
+<h1>Keyword Recognition Based Chatbot</h1>
 
 <h2>Description</h2>
 Project consists of a simple chatbot that learns from a text file to answer questions about the movie "Lord of the Rings: The Fellowship of the Ring".  The text was obtained semi-automatically with web scraping and manually organizing some of the text.
