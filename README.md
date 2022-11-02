@@ -20,31 +20,31 @@ Project consists of a simple chatbot that learns from a text file to answer ques
 
 <p align="center">
 Obtaining the information of the movie <br/>
-<img src="https://i.imgur.com/Hd8NMRc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Hd8NMRc.png" height="80%" width="80%" alt="Keyword Recognition Based Chatbot"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Cleaning the data and storing it in a .txt file:  <br/>
+<img src="https://i.imgur.com/vpojNGH.png" height="80%" width="80%" alt="Keyword Recognition Based Chatbot"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Opening the .txt created, calling the stopwords and defining tokenizers: <br/>
+<img src="https://i.imgur.com/wETGrDW.png" height="80%" width="80%" alt="Keyword Recognition Based Chatbot"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating function for preprocessing the text:  <br/>
+<img src="https://i.imgur.com/1rCQrcU.png" height="80%" width="80%" alt="Keyword Recognition Based Chatbot"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create the greetings function:  <br/>
+<img src="https://i.imgur.com/s3BUS1e.png" height="80%" width="80%" alt="Keyword Recognition Based Chatbot"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create response function with TfidVectorizer considering that the .txt file is long  <br/>
+<img src="https://i.imgur.com/5TpiJUd.png" height="80%" width="80%" alt="Keyword Recognition Based Chatbot"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Execution class to run the code:  <br/>
+<img src="https://i.imgur.com/TeU6iBp.png" height="80%" width="80%" alt="Keyword Recognition Based Chatbot"/>
 </p>
 
 <!--
